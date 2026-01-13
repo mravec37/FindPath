@@ -42,6 +42,3 @@ Each input method must be implemented as a separate class:
   Output a sequence of steps (`u`, `d`, `l`, `r`) that leads from `S` to `X`
 - If no path exists:  
   Output an error or message indicating that no path was found
-
-## Example Maze
-
