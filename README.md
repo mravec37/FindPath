@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-The goal of this project is to create an algorithm that finds a path from a start position** to a target position in a maze.
+The goal of this project is to create an algorithm that finds a path from a start position to a target position in a maze.
 
 The maze is represented as a rectangular 2D grid of characters.
 
